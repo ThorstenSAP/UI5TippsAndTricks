@@ -1,0 +1,2 @@
+- follow the process https://github.com/js-soft/wdi5/blob/develop/wdio-ui5-service/README.md
+- check if @wdi/sync is installed in the dev-dependencies
